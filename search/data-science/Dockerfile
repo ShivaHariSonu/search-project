@@ -51,4 +51,4 @@ WORKDIR /tmp/notebooks
 #RUN find . -name \*.ipynb -print0|xargs -0 jupyter-trust -y
 
 RUN jupyter labextension disable "@jupyterlab/apputils-extension:announcements"
-CMD start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''
+CMD start-notebook.sh --NotebookApp.token='' --NotebookApp.password='' --LabApp.token='test' --ServerApp.token='test' --ServerApp.password='' --ServerApp.ip=0.0.0.0
