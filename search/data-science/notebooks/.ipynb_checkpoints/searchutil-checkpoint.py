@@ -282,8 +282,8 @@ def tokenize(text):
 
 def img_path_for_upc(upc):
     # file_path = os.path.dirname(os.path.abspath(__file__))
-    expected_jpg_path = f"../data/retrotech/images/{upc}.jpg"
-    unavailable_jpg_path = "../data/retrotech/images/unavailable.jpg"
+    expected_jpg_path = f"../data/images/{upc}.jpg"
+    unavailable_jpg_path = "../data/images/unavailable.jpg"
     return expected_jpg_path if os.path.exists(expected_jpg_path) else unavailable_jpg_path
 
 def display_search(query, documents):
@@ -292,7 +292,7 @@ def display_search(query, documents):
   
 def render_search_results(query, results):
     file_path = os.path.dirname(os.path.abspath(__file__))
-    search_results_template_file = os.path.join(file_path + "/data/retrotech/templates/", "search-results.html")
+    search_results_template_file = os.path.join(file_path + "/data/templates/", "search-results.html")
     with open(search_results_template_file) as file:
         file_content = file.read()
 
@@ -312,9 +312,9 @@ def render_search_results(query, results):
             rendered += results_template.replace("${NAME}", result['name'] if 'name' in result else "UNKNOWN") \
                 .replace("${MANUFACTURER}", result['manufacturer'] if 'manufacturer' in result else "UNKNOWN") \
                 .replace("${DESCRIPTION}", result['shortDescription'] if 'shortDescription' in result else "") \
-                .replace("${IMAGE_URL}", "../data/retrotech/images/" + \
+                .replace("${IMAGE_URL}", "../data/images/" + \
                          (result['upc'] if \
-                          ('upc' in result and os.path.exists(file_path + "/data/retrotech/images/" + result['upc'] + ".jpg") \
+                          ('upc' in result and os.path.exists(file_path + "/data/images/" + result['upc'] + ".jpg") \
                          ) else "unavailable") + ".jpg")
 
             rendered += separator_template

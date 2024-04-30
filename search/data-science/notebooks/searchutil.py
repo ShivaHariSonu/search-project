@@ -132,8 +132,8 @@ def tokenize(text):
 
 def img_path_for_upc(upc):
     # file_path = os.path.dirname(os.path.abspath(__file__))
-    expected_jpg_path = f"../data/retrotech/images/{upc}.jpg"
-    unavailable_jpg_path = "../data/retrotech/images/unavailable.jpg"
+    expected_jpg_path = f"../data/images/{upc}.jpg"
+    unavailable_jpg_path = "../data/images/unavailable.jpg"
     return expected_jpg_path if os.path.exists(expected_jpg_path) else unavailable_jpg_path
 
 def display_search(query, documents):
@@ -142,7 +142,7 @@ def display_search(query, documents):
   
 def render_search_results(query, results):
     file_path = os.path.dirname(os.path.abspath(__file__))
-    search_results_template_file = os.path.join(file_path + "/data/retrotech/templates/", "search-results.html")
+    search_results_template_file = os.path.join(file_path + "/data/templates/", "search-results.html")
     with open(search_results_template_file) as file:
         file_content = file.read()
 
