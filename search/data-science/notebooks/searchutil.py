@@ -130,12 +130,6 @@ def vec2str(vector):
 def tokenize(text):
   return text.replace(".","").replace(",","").lower().split()
 
-def img_path_for_upc(upc):
-    # file_path = os.path.dirname(os.path.abspath(__file__))
-    expected_jpg_path = f"../data/images/{upc}.jpg"
-    unavailable_jpg_path = "../data/images/unavailable.jpg"
-    return expected_jpg_path if os.path.exists(expected_jpg_path) else unavailable_jpg_path
-
 def display_search(query, documents):
   display(HTML(f"<strong>Query</strong>: <i>{query}</i><br/><br/><strong>Results:</strong>"))
   display(HTML(documents))

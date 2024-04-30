@@ -67,9 +67,9 @@
 # qid:66: cable modem*1
 # qid:67: ps3 console*1
 # qid:68: galaxy tab*1
-# qid:69: lion king*1
-# qid:70: mac mini*1
-# qid:71: playbook*1
+# qid:69: playbook*1
+# qid:70: lion king*1
+# qid:71: mac mini*1
 # qid:72: lion king*1
 # qid:73: xmen first class*1
 # qid:74: beats by dre*1
@@ -2073,94 +2073,94 @@
 1	qid:68	 # 813774012762	galaxy tab
 1	qid:68	 # 635753495720	galaxy tab
 1	qid:68	 # 885909393404	galaxy tab
-3	qid:69	 # 24543750949	lion king
-3	qid:69	 # 97361459844	lion king
-2	qid:69	 # 786936812459	lion king
-2	qid:69	 # 786936818918	lion king
-3	qid:69	 # 25192866425	lion king
-2	qid:69	 # 50087157975	lion king
-2	qid:69	 # 786936815153	lion king
-2	qid:69	 # 400031470375	lion king
-2	qid:69	 # 786936815139	lion king
-1	qid:69	 # 786936812428	lion king
-1	qid:69	 # 786936222180	lion king
-1	qid:69	 # 786936815115	lion king
-2	qid:69	 # 24543725671	lion king
-1	qid:69	 # 50087242091	lion king
-1	qid:69	 # 97363560449	lion king
-2	qid:69	 # 631595102178	lion king
-1	qid:69	 # 97360810042	lion king
-2	qid:69	 # 686340260535	lion king
-1	qid:69	 # 400031470559	lion king
-1	qid:69	 # 50086012473	lion king
-1	qid:69	 # 25192119248	lion king
-1	qid:69	 # 786936793260	lion king
-0	qid:69	 # 400032015667	lion king
-0	qid:69	 # 31398144359	lion king
-1	qid:69	 # 786936210958	lion king
-1	qid:69	 # 25192102707	lion king
-0	qid:69	 # 24543597650	lion king
-1	qid:69	 # 14633169522	lion king
-3	qid:70	 # 97855070906	mac mini
-4	qid:70	 # 885909455386	mac mini
-3	qid:70	 # 610839384211	mac mini
-4	qid:70	 # 885909455621	mac mini
-3	qid:70	 # 885909459858	mac mini
-3	qid:70	 # 711719220312	mac mini
-3	qid:70	 # 885909400508	mac mini
-3	qid:70	 # 886111529858	mac mini
-2	qid:70	 # 766907439526	mac mini
-2	qid:70	 # 885370222579	mac mini
-2	qid:70	 # 884483805051	mac mini
-2	qid:70	 # 85391161059	mac mini
-1	qid:70	 # 645743515970	mac mini
-2	qid:70	 # 705487181371	mac mini
-2	qid:70	 # 729507816449	mac mini
-2	qid:70	 # 610839379408	mac mini
-2	qid:70	 # 17817392815	mac mini
-2	qid:70	 # 885909283385	mac mini
-2	qid:70	 # 99802944223	mac mini
-2	qid:70	 # 645743796782	mac mini
-1	qid:70	 # 99802367503	mac mini
-2	qid:70	 # 885909436002	mac mini
-1	qid:70	 # 885909270354	mac mini
-1	qid:70	 # 85393894825	mac mini
-2	qid:70	 # 886111962129	mac mini
-1	qid:70	 # 884116032915	mac mini
-1	qid:70	 # 886111850846	mac mini
-1	qid:70	 # 884483537631	mac mini
-2	qid:70	 # 21200507038	mac mini
-1	qid:70	 # 705487182910	mac mini
-3	qid:71	 # 885909398577	playbook
-3	qid:71	 # 635753493559	playbook
-3	qid:71	 # 843163074699	playbook
-3	qid:71	 # 843163074682	playbook
-3	qid:71	 # 843163074705	playbook
-3	qid:71	 # 886111287055	playbook
-3	qid:71	 # 85896393047	playbook
-2	qid:71	 # 885909457595	playbook
-3	qid:71	 # 843163090606	playbook
-3	qid:71	 # 843967071764	playbook
-2	qid:71	 # 843163089051	playbook
-2	qid:71	 # 885909457588	playbook
-2	qid:71	 # 610839379408	playbook
-2	qid:71	 # 843163088702	playbook
-2	qid:71	 # 635753493573	playbook
-2	qid:71	 # 843163088641	playbook
-2	qid:71	 # 884116069973	playbook
-2	qid:71	 # 723755000018	playbook
-2	qid:71	 # 44701016250	playbook
-2	qid:71	 # 635753490879	playbook
-1	qid:71	 # 813774012700	playbook
-2	qid:71	 # 848447000074	playbook
-1	qid:71	 # 716829772249	playbook
-2	qid:71	 # 843404076567	playbook
-1	qid:71	 # 652810116862	playbook
-2	qid:71	 # 46838043963	playbook
-1	qid:71	 # 27242800205	playbook
-1	qid:71	 # 723755000605	playbook
-0	qid:71	 # 843163089211	playbook
-1	qid:71	 # 885909497249	playbook
+3	qid:69	 # 885909398577	playbook
+3	qid:69	 # 635753493559	playbook
+3	qid:69	 # 843163074699	playbook
+3	qid:69	 # 843163074682	playbook
+3	qid:69	 # 843163074705	playbook
+3	qid:69	 # 886111287055	playbook
+3	qid:69	 # 85896393047	playbook
+2	qid:69	 # 885909457595	playbook
+3	qid:69	 # 843163090606	playbook
+3	qid:69	 # 843967071764	playbook
+2	qid:69	 # 843163089051	playbook
+2	qid:69	 # 885909457588	playbook
+2	qid:69	 # 610839379408	playbook
+2	qid:69	 # 843163088702	playbook
+2	qid:69	 # 635753493573	playbook
+2	qid:69	 # 843163088641	playbook
+2	qid:69	 # 884116069973	playbook
+2	qid:69	 # 723755000018	playbook
+2	qid:69	 # 44701016250	playbook
+2	qid:69	 # 635753490879	playbook
+1	qid:69	 # 813774012700	playbook
+2	qid:69	 # 848447000074	playbook
+1	qid:69	 # 716829772249	playbook
+2	qid:69	 # 843404076567	playbook
+1	qid:69	 # 652810116862	playbook
+2	qid:69	 # 46838043963	playbook
+1	qid:69	 # 27242800205	playbook
+1	qid:69	 # 723755000605	playbook
+0	qid:69	 # 843163089211	playbook
+1	qid:69	 # 885909497249	playbook
+3	qid:70	 # 24543750949	lion king
+3	qid:70	 # 97361459844	lion king
+2	qid:70	 # 786936812459	lion king
+2	qid:70	 # 786936818918	lion king
+3	qid:70	 # 25192866425	lion king
+2	qid:70	 # 50087157975	lion king
+2	qid:70	 # 786936815153	lion king
+2	qid:70	 # 400031470375	lion king
+2	qid:70	 # 786936815139	lion king
+1	qid:70	 # 786936812428	lion king
+1	qid:70	 # 786936222180	lion king
+1	qid:70	 # 786936815115	lion king
+2	qid:70	 # 24543725671	lion king
+1	qid:70	 # 50087242091	lion king
+1	qid:70	 # 97363560449	lion king
+2	qid:70	 # 631595102178	lion king
+1	qid:70	 # 97360810042	lion king
+2	qid:70	 # 686340260535	lion king
+1	qid:70	 # 400031470559	lion king
+1	qid:70	 # 50086012473	lion king
+1	qid:70	 # 25192119248	lion king
+1	qid:70	 # 786936793260	lion king
+0	qid:70	 # 400032015667	lion king
+0	qid:70	 # 31398144359	lion king
+1	qid:70	 # 786936210958	lion king
+1	qid:70	 # 25192102707	lion king
+0	qid:70	 # 24543597650	lion king
+1	qid:70	 # 14633169522	lion king
+3	qid:71	 # 97855070906	mac mini
+4	qid:71	 # 885909455386	mac mini
+3	qid:71	 # 610839384211	mac mini
+4	qid:71	 # 885909455621	mac mini
+3	qid:71	 # 885909459858	mac mini
+3	qid:71	 # 711719220312	mac mini
+3	qid:71	 # 885909400508	mac mini
+3	qid:71	 # 886111529858	mac mini
+2	qid:71	 # 766907439526	mac mini
+2	qid:71	 # 885370222579	mac mini
+2	qid:71	 # 884483805051	mac mini
+2	qid:71	 # 85391161059	mac mini
+1	qid:71	 # 645743515970	mac mini
+2	qid:71	 # 705487181371	mac mini
+2	qid:71	 # 729507816449	mac mini
+2	qid:71	 # 610839379408	mac mini
+2	qid:71	 # 17817392815	mac mini
+2	qid:71	 # 885909283385	mac mini
+2	qid:71	 # 99802944223	mac mini
+2	qid:71	 # 645743796782	mac mini
+1	qid:71	 # 99802367503	mac mini
+2	qid:71	 # 885909436002	mac mini
+1	qid:71	 # 885909270354	mac mini
+1	qid:71	 # 85393894825	mac mini
+2	qid:71	 # 886111962129	mac mini
+1	qid:71	 # 884116032915	mac mini
+1	qid:71	 # 886111850846	mac mini
+1	qid:71	 # 884483537631	mac mini
+2	qid:71	 # 21200507038	mac mini
+1	qid:71	 # 705487182910	mac mini
 3	qid:72	 # 24543750949	lion king
 3	qid:72	 # 97361459844	lion king
 2	qid:72	 # 786936812459	lion king

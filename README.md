@@ -64,7 +64,7 @@ To get a local copy up and running, follow these simple steps.
 Follow these steps to get your development environment set up:
 1. Change to the project directory where docker-compose.yml is located:
    ```sh
-   cd search
+   cd search-project/search
 2. Start the application using Docker Compose:
    ```sh
    docker-compose up --build
@@ -72,13 +72,8 @@ Follow these steps to get your development environment set up:
    Note: This process may take about 20 minutes when run for the first time.
 3. Accessing the application:
    - JupyterLab interface: Open [http://127.0.0.1:8888/lab?token=test](http://127.0.0.1:8888/lab?token=test) on web browser to access the JupyterLab interface.
-   - Visual Studio Code: In VS code select the kernel and add the existing one with the url [http://127.0.0.1:8888/lab?token=test](http://127.0.0.1:8888/lab?token=test) and run it.
-4. If running on Jupyter Notebook, navigate to the required directory:
-  ```sh
-  cd ..
-  pwd  # Ensure it points to ‘/tmp/notebooks’
-  ```
-
+   - Visual Studio Code: Open the VS code and click select kernel and paste the url [http://127.0.0.1:8888/lab?token=test](http://127.0.0.1:8888/lab?token=test) and click on the python3 kernel and run the code.
+4. Navigate to `search-nb/search-nb.ipynb`, which is the main notebook. 
 
 ### Code Execution
 
@@ -102,7 +97,7 @@ for query in top_100_queries:
                 sess_id += 1
                 
                 # Break if a large number of sessions are created
-                if sess_id >= 2000:
+                if sess_id >= 2500:
                     print(f"Created {sess_id} sessions for query '{query}' in {perf_counter() - t1_start:.2f} seconds")
                     break
         else:
@@ -135,6 +130,50 @@ Leela Sowmya Jandhyala - u1472955@utah.edu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Troubleshoot -->
+## Troubleshoot
+As the code and the data accesses are intensive, it is prone to kernel crashes. If there are kernel crashes you can start from the section itself, instead of from the start. Before starting from that section, load the first cell where it imports necessary libraries.
+
+There are 4 sections overall
+
+* Boosting Products for a Query
+* Searching with the related keywords
+* Finding wrongly spelled words and mapping it with correct one
+* Finding the weightage values for attributes in a query
+
+If you are starting the kernel from the 4th section (Finding the weightage values for attributes in a query) make sure you load the signals_boosting_collection from the cell of the subsection (Boosting the signals).
+```python
+
+products_collection="products"
+signals_collection="signals"
+signals_boosting_collection="signals_boosting"
+
+#We have the collection for products and signals. 
+#Creating the collection for signals_boosting
+create_collection(signals_boosting_collection)
+
+print("Now we are aggregating to get signals boosts...")
+signals_opts={"zkhost": "search-zk", "collection": signals_collection}
+df = spark.read.format("solr").options(**signals_opts).load()
+df.createOrReplaceTempView("signals")
+
+# For each query we are storing how many times the document has been clicked.
+signals_aggregation_query = """
+select q.target as query, c.target as doc, count(c.target) as boost
+  from signals c left join signals q on c.query_id = q.query_id
+  where c.type = 'click' AND q.type = 'query'
+  group by query, doc
+  order by boost desc
+"""
+
+signals_boosting_opts={"zkhost": "search-zk", "collection": signals_boosting_collection, 
+                       "gen_uniq_key": "true", "commit_within": "5000"}
+
+#Writing the Boosted Signal Information to Apache Spark
+spark.sql(signals_aggregation_query).write.format("solr").options(**signals_boosting_opts).mode("overwrite").save()
+print("Signals Aggregation Completed!")
+
+```
 
 
 <!-- ACKNOWLEDGMENTS -->
