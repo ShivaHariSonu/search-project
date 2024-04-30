@@ -28,8 +28,8 @@
 # qid:27: hp touch pad*1
 # qid:28: ipad2*1
 # qid:29: ipod touch*1
-# qid:30: kindle*1
-# qid:31: roku*1
+# qid:30: roku*1
+# qid:31: kindle*1
 # qid:32: captain america*1
 # qid:33: beats*1
 # qid:34: google tv*1
@@ -67,8 +67,8 @@
 # qid:66: cable modem*1
 # qid:67: ps3 console*1
 # qid:68: galaxy tab*1
-# qid:69: playbook*1
-# qid:70: lion king*1
+# qid:69: lion king*1
+# qid:70: playbook*1
 # qid:71: mac mini*1
 # qid:72: lion king*1
 # qid:73: xmen first class*1
@@ -87,8 +87,8 @@
 # qid:86: modem*1
 # qid:87: htc flyer*1
 # qid:88: iphone 4s*1
-# qid:89: transformers 3*1
-# qid:90: fast five*1
+# qid:89: fast five*1
+# qid:90: transformers 3*1
 # qid:91: droid bionic*1
 # qid:92: toshiba thrive*1
 # qid:93: headphones*1
@@ -985,64 +985,64 @@
 1	qid:29	 # 685387345038	ipod touch
 0	qid:29	 # 660543004868	ipod touch
 1	qid:29	 # 886112201586	ipod touch
-3	qid:30	 # 9781400532650	kindle
-3	qid:30	 # 813580018514	kindle
-2	qid:30	 # 814916010219	kindle
-1	qid:30	 # 814916014590	kindle
-1	qid:30	 # 814916010240	kindle
-1	qid:30	 # 814916014385	kindle
-1	qid:30	 # 814916011896	kindle
-1	qid:30	 # 813580017906	kindle
-1	qid:30	 # 814916014361	kindle
-1	qid:30	 # 813580015261	kindle
-1	qid:30	 # 814916011872	kindle
-1	qid:30	 # 814916010288	kindle
-1	qid:30	 # 814916010233	kindle
-1	qid:30	 # 843404077182	kindle
-1	qid:30	 # 9781400532711	kindle
-1	qid:30	 # 886111287055	kindle
-1	qid:30	 # 92636257521	kindle
-1	qid:30	 # 814916010202	kindle
-0	qid:30	 # 813580015247	kindle
-1	qid:30	 # 813580017579	kindle
-0	qid:30	 # 813580018491	kindle
-1	qid:30	 # 814916014606	kindle
-1	qid:30	 # 813580015797	kindle
-1	qid:30	 # 813580015155	kindle
-1	qid:30	 # 813580015223	kindle
-0	qid:30	 # 813580015636	kindle
-0	qid:30	 # 813580018361	kindle
-0	qid:30	 # 813580015933	kindle
-0	qid:30	 # 817866000651	kindle
-0	qid:30	 # 885909457588	kindle
-4	qid:31	 # 829610880068	roku
-5	qid:31	 # 829610880075	roku
-2	qid:31	 # 97855070906	roku
-2	qid:31	 # 829610880020	roku
-2	qid:31	 # 27242807785	roku
-1	qid:31	 # 885909410521	roku
-2	qid:31	 # 790069335631	roku
-1	qid:31	 # 96427016878	roku
-1	qid:31	 # 606449067798	roku
-1	qid:31	 # 27242807303	roku
-0	qid:31	 # 609585193758	roku
-1	qid:31	 # 645743796782	roku
-1	qid:31	 # 86279003737	roku
-1	qid:31	 # 719192580565	roku
-1	qid:31	 # 716829922095	roku
-1	qid:31	 # 718037764542	roku
-1	qid:31	 # 36725234635	roku
-1	qid:31	 # 27242809369	roku
-0	qid:31	 # 635753492965	roku
-1	qid:31	 # 729507816036	roku
-0	qid:31	 # 99802970796	roku
-1	qid:31	 # 719192580336	roku
-1	qid:31	 # 719192578630	roku
-1	qid:31	 # 652810116862	roku
-0	qid:31	 # 836182002705	roku
-1	qid:31	 # 883974845064	roku
-1	qid:31	 # 884116069973	roku
-1	qid:31	 # 751398009976	roku
+4	qid:30	 # 829610880068	roku
+5	qid:30	 # 829610880075	roku
+2	qid:30	 # 97855070906	roku
+2	qid:30	 # 829610880020	roku
+2	qid:30	 # 27242807785	roku
+1	qid:30	 # 885909410521	roku
+2	qid:30	 # 790069335631	roku
+1	qid:30	 # 96427016878	roku
+1	qid:30	 # 606449067798	roku
+1	qid:30	 # 27242807303	roku
+0	qid:30	 # 609585193758	roku
+1	qid:30	 # 645743796782	roku
+1	qid:30	 # 86279003737	roku
+1	qid:30	 # 719192580565	roku
+1	qid:30	 # 716829922095	roku
+1	qid:30	 # 718037764542	roku
+1	qid:30	 # 36725234635	roku
+1	qid:30	 # 27242809369	roku
+0	qid:30	 # 635753492965	roku
+1	qid:30	 # 729507816036	roku
+0	qid:30	 # 99802970796	roku
+1	qid:30	 # 719192580336	roku
+1	qid:30	 # 719192578630	roku
+1	qid:30	 # 652810116862	roku
+0	qid:30	 # 836182002705	roku
+1	qid:30	 # 883974845064	roku
+1	qid:30	 # 884116069973	roku
+1	qid:30	 # 751398009976	roku
+3	qid:31	 # 9781400532650	kindle
+3	qid:31	 # 813580018514	kindle
+2	qid:31	 # 814916010219	kindle
+1	qid:31	 # 814916014590	kindle
+1	qid:31	 # 814916010240	kindle
+1	qid:31	 # 814916014385	kindle
+1	qid:31	 # 814916011896	kindle
+1	qid:31	 # 813580017906	kindle
+1	qid:31	 # 814916014361	kindle
+1	qid:31	 # 813580015261	kindle
+1	qid:31	 # 814916011872	kindle
+1	qid:31	 # 814916010288	kindle
+1	qid:31	 # 814916010233	kindle
+1	qid:31	 # 843404077182	kindle
+1	qid:31	 # 9781400532711	kindle
+1	qid:31	 # 886111287055	kindle
+1	qid:31	 # 92636257521	kindle
+1	qid:31	 # 814916010202	kindle
+0	qid:31	 # 813580015247	kindle
+1	qid:31	 # 813580017579	kindle
+0	qid:31	 # 813580018491	kindle
+1	qid:31	 # 814916014606	kindle
+1	qid:31	 # 813580015797	kindle
+1	qid:31	 # 813580015155	kindle
+1	qid:31	 # 813580015223	kindle
+0	qid:31	 # 813580015636	kindle
+0	qid:31	 # 813580018361	kindle
+0	qid:31	 # 813580015933	kindle
+0	qid:31	 # 817866000651	kindle
+0	qid:31	 # 885909457588	kindle
 3	qid:32	 # 24543750949	captain america
 4	qid:32	 # 97361538341	captain america
 3	qid:32	 # 826663129410	captain america
@@ -2073,64 +2073,64 @@
 1	qid:68	 # 813774012762	galaxy tab
 1	qid:68	 # 635753495720	galaxy tab
 1	qid:68	 # 885909393404	galaxy tab
-3	qid:69	 # 885909398577	playbook
-3	qid:69	 # 635753493559	playbook
-3	qid:69	 # 843163074699	playbook
-3	qid:69	 # 843163074682	playbook
-3	qid:69	 # 843163074705	playbook
-3	qid:69	 # 886111287055	playbook
-3	qid:69	 # 85896393047	playbook
-2	qid:69	 # 885909457595	playbook
-3	qid:69	 # 843163090606	playbook
-3	qid:69	 # 843967071764	playbook
-2	qid:69	 # 843163089051	playbook
-2	qid:69	 # 885909457588	playbook
-2	qid:69	 # 610839379408	playbook
-2	qid:69	 # 843163088702	playbook
-2	qid:69	 # 635753493573	playbook
-2	qid:69	 # 843163088641	playbook
-2	qid:69	 # 884116069973	playbook
-2	qid:69	 # 723755000018	playbook
-2	qid:69	 # 44701016250	playbook
-2	qid:69	 # 635753490879	playbook
-1	qid:69	 # 813774012700	playbook
-2	qid:69	 # 848447000074	playbook
-1	qid:69	 # 716829772249	playbook
-2	qid:69	 # 843404076567	playbook
-1	qid:69	 # 652810116862	playbook
-2	qid:69	 # 46838043963	playbook
-1	qid:69	 # 27242800205	playbook
-1	qid:69	 # 723755000605	playbook
-0	qid:69	 # 843163089211	playbook
-1	qid:69	 # 885909497249	playbook
-3	qid:70	 # 24543750949	lion king
-3	qid:70	 # 97361459844	lion king
-2	qid:70	 # 786936812459	lion king
-2	qid:70	 # 786936818918	lion king
-3	qid:70	 # 25192866425	lion king
-2	qid:70	 # 50087157975	lion king
-2	qid:70	 # 786936815153	lion king
-2	qid:70	 # 400031470375	lion king
-2	qid:70	 # 786936815139	lion king
-1	qid:70	 # 786936812428	lion king
-1	qid:70	 # 786936222180	lion king
-1	qid:70	 # 786936815115	lion king
-2	qid:70	 # 24543725671	lion king
-1	qid:70	 # 50087242091	lion king
-1	qid:70	 # 97363560449	lion king
-2	qid:70	 # 631595102178	lion king
-1	qid:70	 # 97360810042	lion king
-2	qid:70	 # 686340260535	lion king
-1	qid:70	 # 400031470559	lion king
-1	qid:70	 # 50086012473	lion king
-1	qid:70	 # 25192119248	lion king
-1	qid:70	 # 786936793260	lion king
-0	qid:70	 # 400032015667	lion king
-0	qid:70	 # 31398144359	lion king
-1	qid:70	 # 786936210958	lion king
-1	qid:70	 # 25192102707	lion king
-0	qid:70	 # 24543597650	lion king
-1	qid:70	 # 14633169522	lion king
+3	qid:69	 # 24543750949	lion king
+3	qid:69	 # 97361459844	lion king
+2	qid:69	 # 786936812459	lion king
+2	qid:69	 # 786936818918	lion king
+3	qid:69	 # 25192866425	lion king
+2	qid:69	 # 50087157975	lion king
+2	qid:69	 # 786936815153	lion king
+2	qid:69	 # 400031470375	lion king
+2	qid:69	 # 786936815139	lion king
+1	qid:69	 # 786936812428	lion king
+1	qid:69	 # 786936222180	lion king
+1	qid:69	 # 786936815115	lion king
+2	qid:69	 # 24543725671	lion king
+1	qid:69	 # 50087242091	lion king
+1	qid:69	 # 97363560449	lion king
+2	qid:69	 # 631595102178	lion king
+1	qid:69	 # 97360810042	lion king
+2	qid:69	 # 686340260535	lion king
+1	qid:69	 # 400031470559	lion king
+1	qid:69	 # 50086012473	lion king
+1	qid:69	 # 25192119248	lion king
+1	qid:69	 # 786936793260	lion king
+0	qid:69	 # 400032015667	lion king
+0	qid:69	 # 31398144359	lion king
+1	qid:69	 # 786936210958	lion king
+1	qid:69	 # 25192102707	lion king
+0	qid:69	 # 24543597650	lion king
+1	qid:69	 # 14633169522	lion king
+3	qid:70	 # 885909398577	playbook
+3	qid:70	 # 635753493559	playbook
+3	qid:70	 # 843163074699	playbook
+3	qid:70	 # 843163074682	playbook
+3	qid:70	 # 843163074705	playbook
+3	qid:70	 # 886111287055	playbook
+3	qid:70	 # 85896393047	playbook
+2	qid:70	 # 885909457595	playbook
+3	qid:70	 # 843163090606	playbook
+3	qid:70	 # 843967071764	playbook
+2	qid:70	 # 843163089051	playbook
+2	qid:70	 # 885909457588	playbook
+2	qid:70	 # 610839379408	playbook
+2	qid:70	 # 843163088702	playbook
+2	qid:70	 # 635753493573	playbook
+2	qid:70	 # 843163088641	playbook
+2	qid:70	 # 884116069973	playbook
+2	qid:70	 # 723755000018	playbook
+2	qid:70	 # 44701016250	playbook
+2	qid:70	 # 635753490879	playbook
+1	qid:70	 # 813774012700	playbook
+2	qid:70	 # 848447000074	playbook
+1	qid:70	 # 716829772249	playbook
+2	qid:70	 # 843404076567	playbook
+1	qid:70	 # 652810116862	playbook
+2	qid:70	 # 46838043963	playbook
+1	qid:70	 # 27242800205	playbook
+1	qid:70	 # 723755000605	playbook
+0	qid:70	 # 843163089211	playbook
+1	qid:70	 # 885909497249	playbook
 3	qid:71	 # 97855070906	mac mini
 4	qid:71	 # 885909455386	mac mini
 3	qid:71	 # 610839384211	mac mini
@@ -2653,63 +2653,63 @@
 0	qid:88	 # 816050010186	iphone 4s
 0	qid:88	 # 660543009689	iphone 4s
 0	qid:88	 # 628905006271	iphone 4s
-3	qid:89	 # 708056579739	transformers 3
-4	qid:89	 # 47875841420	transformers 3
-3	qid:89	 # 97361459844	transformers 3
-3	qid:89	 # 883929161881	transformers 3
-3	qid:89	 # 97360810042	transformers 3
-2	qid:89	 # 47875839069	transformers 3
-3	qid:89	 # 25192107191	transformers 3
-2	qid:89	 # 708056579746	transformers 3
-2	qid:89	 # 97363560449	transformers 3
-2	qid:89	 # 25192119248	transformers 3
-2	qid:89	 # 786936817218	transformers 3
-2	qid:89	 # 47875819733	transformers 3
-1	qid:89	 # 24543725671	transformers 3
-2	qid:89	 # 879862003500	transformers 3
-2	qid:89	 # 711719220312	transformers 3
-2	qid:89	 # 826663114171	transformers 3
-2	qid:89	 # 47875841369	transformers 3
-1	qid:89	 # 883929163496	transformers 3
-2	qid:89	 # 883974845064	transformers 3
-2	qid:89	 # 47875842328	transformers 3
-2	qid:89	 # 27242828919	transformers 3
-2	qid:89	 # 47875841406	transformers 3
-2	qid:89	 # 93624956037	transformers 3
-2	qid:89	 # 786936811865	transformers 3
-1	qid:89	 # 97368939141	transformers 3
-1	qid:89	 # 826663125979	transformers 3
-1	qid:89	 # 97361435244	transformers 3
-2	qid:89	 # 884116051138	transformers 3
-3	qid:90	 # 25195038416	fast five
-3	qid:90	 # 18771883920	fast five
-4	qid:90	 # 25192119248	fast five
-3	qid:90	 # 799759009432	fast five
-2	qid:90	 # 25192076480	fast five
-1	qid:90	 # 786936812459	fast five
-1	qid:90	 # 25192107191	fast five
-2	qid:90	 # 25192111488	fast five
-1	qid:90	 # 786936817218	fast five
-1	qid:90	 # 25192122644	fast five
-1	qid:90	 # 786936815115	fast five
-2	qid:90	 # 97361459844	fast five
-1	qid:90	 # 97360810042	fast five
-1	qid:90	 # 97363560449	fast five
-1	qid:90	 # 812715012595	fast five
-1	qid:90	 # 786936818918	fast five
-1	qid:90	 # 30206708820	fast five
-1	qid:90	 # 400031470375	fast five
-1	qid:90	 # 8888166719	fast five
-1	qid:90	 # 780163417326	fast five
-1	qid:90	 # 13132169699	fast five
-1	qid:90	 # 24543750949	fast five
-1	qid:90	 # 24543742180	fast five
-0	qid:90	 # 10343874084	fast five
-0	qid:90	 # 31398134848	fast five
-0	qid:90	 # 25192100291	fast five
-0	qid:90	 # 25192076251	fast five
-0	qid:90	 # 24543771807	fast five
-1	qid:90	 # 19048192493	fast five
+3	qid:89	 # 25195038416	fast five
+3	qid:89	 # 18771883920	fast five
+4	qid:89	 # 25192119248	fast five
+3	qid:89	 # 799759009432	fast five
+2	qid:89	 # 25192076480	fast five
+1	qid:89	 # 786936812459	fast five
+1	qid:89	 # 25192107191	fast five
+2	qid:89	 # 25192111488	fast five
+1	qid:89	 # 786936817218	fast five
+1	qid:89	 # 25192122644	fast five
+1	qid:89	 # 786936815115	fast five
+2	qid:89	 # 97361459844	fast five
+1	qid:89	 # 97360810042	fast five
+1	qid:89	 # 97363560449	fast five
+1	qid:89	 # 812715012595	fast five
+1	qid:89	 # 786936818918	fast five
+1	qid:89	 # 30206708820	fast five
+1	qid:89	 # 400031470375	fast five
+1	qid:89	 # 8888166719	fast five
+1	qid:89	 # 780163417326	fast five
+1	qid:89	 # 13132169699	fast five
+1	qid:89	 # 24543750949	fast five
+1	qid:89	 # 24543742180	fast five
+0	qid:89	 # 10343874084	fast five
+0	qid:89	 # 31398134848	fast five
+0	qid:89	 # 25192100291	fast five
+0	qid:89	 # 25192076251	fast five
+0	qid:89	 # 24543771807	fast five
+1	qid:89	 # 19048192493	fast five
+3	qid:90	 # 708056579739	transformers 3
+4	qid:90	 # 47875841420	transformers 3
+3	qid:90	 # 97361459844	transformers 3
+3	qid:90	 # 883929161881	transformers 3
+3	qid:90	 # 97360810042	transformers 3
+2	qid:90	 # 47875839069	transformers 3
+3	qid:90	 # 25192107191	transformers 3
+2	qid:90	 # 708056579746	transformers 3
+2	qid:90	 # 97363560449	transformers 3
+2	qid:90	 # 25192119248	transformers 3
+2	qid:90	 # 786936817218	transformers 3
+2	qid:90	 # 47875819733	transformers 3
+1	qid:90	 # 24543725671	transformers 3
+2	qid:90	 # 879862003500	transformers 3
+2	qid:90	 # 711719220312	transformers 3
+2	qid:90	 # 826663114171	transformers 3
+2	qid:90	 # 47875841369	transformers 3
+1	qid:90	 # 883929163496	transformers 3
+2	qid:90	 # 883974845064	transformers 3
+2	qid:90	 # 47875842328	transformers 3
+2	qid:90	 # 27242828919	transformers 3
+2	qid:90	 # 47875841406	transformers 3
+2	qid:90	 # 93624956037	transformers 3
+2	qid:90	 # 786936811865	transformers 3
+1	qid:90	 # 97368939141	transformers 3
+1	qid:90	 # 826663125979	transformers 3
+1	qid:90	 # 97361435244	transformers 3
+2	qid:90	 # 884116051138	transformers 3
 4	qid:91	 # 738516345949	droid bionic
 7	qid:91	 # 723755000254	droid bionic
 3	qid:91	 # 610214626400	droid bionic

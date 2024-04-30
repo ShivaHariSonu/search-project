@@ -59,9 +59,9 @@ def plot_judgments(qids, xlabel, ylabel, judg_list, focus=None,
                                norm=norm)
             legend_paths.append(path)
             if grade == 0:
-                legend_labels.append(judgment.keywords + " irrelevant movie")
+                legend_labels.append(judgment.keywords + " irrelevant")
             else:
-                legend_labels.append(judgment.keywords + " relevant movie")
+                legend_labels.append(judgment.keywords + " relevant")
 
 
 
